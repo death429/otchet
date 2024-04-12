@@ -1,0 +1,7 @@
+C:\Users\11\source\repos\zadacha2\zadacha2\bin\Debug\zadacha2.exe.config
+C:\Users\11\source\repos\zadacha2\zadacha2\bin\Debug\zadacha2.exe
+C:\Users\11\source\repos\zadacha2\zadacha2\bin\Debug\zadacha2.pdb
+C:\Users\11\source\repos\zadacha2\zadacha2\obj\Debug\zadacha2.csproj.AssemblyReference.cache
+C:\Users\11\source\repos\zadacha2\zadacha2\obj\Debug\zadacha2.csproj.CoreCompileInputs.cache
+C:\Users\11\source\repos\zadacha2\zadacha2\obj\Debug\zadacha2.exe
+C:\Users\11\source\repos\zadacha2\zadacha2\obj\Debug\zadacha2.pdb
